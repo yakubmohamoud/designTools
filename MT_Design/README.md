@@ -22,8 +22,3 @@ Features to be improved
 2. Massive UI upgrade including (making th canvas bigger, making the images more crispy and clear and adding animations to the products)
 
 
-Fork
-====
-  Help grow this plugin by your contribution, if you are a developer.
-
-
