@@ -3,7 +3,7 @@ MT_Design
 
 It is an javascript based open source application for designing tee-shirts or hoodies.
 
-What it can do
+What it does
 ========================
 1. You can customise the designs of hoodies and tshirts.
 2. Images can be sized and drag anywhere on the product.
