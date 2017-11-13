@@ -85,6 +85,14 @@
 				</div>-->
 				<div id="radio3" ><img src="tdesignAPI/images/menu_icons/submenu/hoodie.jpg" width="100%" height="100%" />
 				</div>
+				<div id="radio4" ><img src="tdesignAPI/images/menu_icons/submenu/jeans.png" width="100%" height="100%" />
+				</div>
+				<div id="radio5" ><img src="tdesignAPI/images/menu_icons/submenu/shoes.jpg" width="100%" height="100%" />
+				</div>
+				<!-- --/>
+
+			1
+
 			</div>
 
 			<div class="color_pick">
