@@ -81,15 +81,15 @@
 			<div class="T_type">
 				<div id="radio1" ><img src="tdesignAPI/images/menu_icons/submenu/tee.jpg" width="100%" height="100%" />
 				</div>
-				<!--<div id="radio2" ><img src="tdesignAPI/images/menu_icons/submenu/collar.jpg" width="100%" height="100%" />
-				</div>-->
+				<div id="radio2" ><img src="tdesignAPI/images/menu_icons/submenu/collar.jpg" width="100%" height="100%" />
+				</div>
 				<div id="radio3" ><img src="tdesignAPI/images/menu_icons/submenu/hoodie.jpg" width="100%" height="100%" />
 				</div>
 				<div id="radio4" ><img src="tdesignAPI/images/menu_icons/submenu/jeans.png" width="100%" height="100%" />
 				</div>
 				<div id="radio5" ><img src="tdesignAPI/images/menu_icons/submenu/shoes.jpg" width="100%" height="100%" />
 				</div>
-				<!-- --/>
+			<!--- Above code is where i need to add the images to allow people to be able to  -->
 
 			1
 
